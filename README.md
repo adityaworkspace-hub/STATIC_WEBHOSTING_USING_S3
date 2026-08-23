@@ -33,7 +33,7 @@ Bucket Details
 | AWS Region | Europe (Ireland) eu-west-1 |
 | Public Access | Enabled (Read-Only) |
 | Index Document | index.html |
-| Website Endpoint | http://myaws-s3bucket-udtserver.s3-website-eu-west-1.amazonaws.com |
+| Website Endpoint | http://myaws---------------------------------------.amazonaws.com |
 
 Step 1 - Create S3 Bucket
 
